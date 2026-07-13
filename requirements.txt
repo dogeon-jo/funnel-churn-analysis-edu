@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-koreanize-matplotlib
-sqlalchemy
-pymysql
-python-dotenv
-jupyter
