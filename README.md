@@ -21,7 +21,6 @@
 
 ```
 online-edu-churn-analysis/
-├── README.md
 ├── requirements.txt
 ├── .env.example                 ← DB 접속 정보 입력 형식 (실제 값은 직접 채워야 함)
 ├── .gitignore
@@ -29,8 +28,9 @@ online-edu-churn-analysis/
 ├── 1__AARRR.ipynb                ← Acquisition/Activation/Retention/Revenue 퍼널 분석
 ├── 2__EDA.ipynb                  ← 이탈자 행동 로그 기반 심층 분석 (전환 경로, 탐색 행동 비교)
 │
-├── 5__온라인_교육_서비스_사용자_이탈_분석_보고서.docx     ← 전체 분석 보고서
-└── 6__온라인_교육_서비스_사용자_이탈_핵심_보고서_요약본.docx  ← 경영진 보고용 요약본
+├── 3__온라인_교육_서비스_사용자_이탈_분석_보고서.docx     ← 전체 분석 보고서
+└── 4__온라인_교육_서비스_사용자_이탈_핵심_보고서_요약본.docx  ← 경영진 보고용 요약본
+README.md
 ```
 
 ## 실행 방법
