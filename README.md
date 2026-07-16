@@ -10,7 +10,7 @@
 
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-바로가기-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/.22835979/viz/_17794375632610/sheet0)
 
-![대시보드 미리보기](./image/image/온라인 교육 서비스 대시보드.png)
+![대시보드 미리보기](./image/온라인 교육 서비스 대시보드.png)
 
 
 ---
