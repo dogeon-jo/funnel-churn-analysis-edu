@@ -6,7 +6,11 @@
 >
 > 본 프로젝트에서 사용한 원본 데이터는 실제 기업으로부터 정식 계약을 통해 제공받은 자료로, 계약에 따라 원본 데이터 파일 자체의 공유·복제·배포 및 원본을 유추/복원할 수 있는 형태의 공유가 금지되어 있습니다. 이 저장소에는 **원본 데이터, DB 접속 정보, 원본 로우 데이터 미리보기**를 포함하지 않으며, 분석 **과정과 결과(산출물)** 만 개인 포트폴리오 목적으로 공유합니다.
 
+## 📊 대시보드
 
+[![Tableau Public](https://img.shields.io/badge/Tableau_Public-바로가기-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/.22835979/viz/_17794375632610/sheet0)
+
+![대시보드 미리보기](./image/image/온라인 교육 서비스 대시보드.png)
 
 
 ---
@@ -86,6 +90,4 @@ README.md
 
 ## 상세 보고서
 
-- [프로젝트 보고서](./online-edu-churn-analysis/3__온라인_교육_서비스_사용자_이탈_분석_보고서.pdf)
-- [프로젝트 보고서 요약본](./online-edu-churn-analysis/4__온라인_교육_서비스_사용자_이탈_핵심_보고서_요약본.pdf
-)
+- [프로젝트 보고서 요약본](./online-edu-churn-analysis/3__온라인_교육_서비스_사용자_이탈_핵심_보고서_요약본.pdf)
