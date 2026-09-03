@@ -110,4 +110,5 @@ Tableau Public에서 인터랙티브 대시보드를 확인할 수 있습니다.
 
 ## 상세 자료
 
-- [분석 원페이지 총합본 (PDF)](./image/one_paper/조도건_온라인_교육_서비스_사용자_이탈_핵심.pdf)
+- [분석 원페이지 총합본 (PDF)](./online-edu-churn-analysis/3._온라인_교육_서비스_사용자_이탈_핵심_보고서_요약본.pdf)
+- [A/B테스트_기획서 (PDF)](./online-edu-churn-analysis/4._AB테스트_기획서.pdf.pdf)
